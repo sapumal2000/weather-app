@@ -4,3 +4,7 @@ THe Weather app is created using React with Vite template. it gets its weather d
 
 To run locally download the files and run command line `npm run dev` in the terminal. 
 
+Screen shot of the running webb app is as below
+
+![Screenshot of the weather app running](src/assets/screenshot.svg)
+
